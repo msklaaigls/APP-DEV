@@ -8,12 +8,12 @@ My first repository.
 
 
 
-## 🌟 Main Characters
+## Main Characters
 - **Morgan**, a smart and determined woman with a high IQ  
 - **Karadec**, a serious detective who learns to appreciate Morgan’s unconventional methods    
 
 
-## 💬 Why I Like It
+## Why I Like It
 I enjoy watching *High Potential* because it combines mystery, humor, and heartfelt moments.  
 The main character’s quick thinking and unique approach to solving crimes inspire me to look at problems from different perspectives.
 
